@@ -1,0 +1,36 @@
+.input-ladding{
+    display: flex;
+    flex-direction: column;
+}
+
+.input-ladding label{
+    font-size: .8rem;
+    font-weight: 400;
+    padding-bottom: .5rem;
+    padding-left: .7rem;
+    
+}
+
+.input-ladding input{
+    padding: 12px .7rem;
+    border: none;
+    background-color: #eeeded;
+    width: 100%;
+    margin-bottom: .8rem;
+}
+
+.input-ladding svg{
+    position: absolute;
+    right: 15px;
+    opacity: 0.8;
+    display: flex;
+    align-items: center;
+    height: 83%;
+    top: 0;
+}
+
+.container-input{
+    position: relative;
+}
+
+

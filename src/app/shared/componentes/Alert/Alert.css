@@ -1,0 +1,32 @@
+.containerAlert{
+    position: absolute;
+    bottom: 3px;
+    right: 3px;
+}
+
+.containerAlert .alert h4{
+    font-size: 1.1rem;
+}
+
+.containerAlert .alert{
+    display: flex;
+    flex-direction: column;
+}
+
+.containerAlert .alert span{
+    background-color: rgba(9, 46, 15, 0.5);
+    margin-top: .2rem;
+    height: 5px;
+    border-radius: 10px;
+    animation: timer 4.1s linear;
+}
+
+@keyframes timer {
+    0%{
+        width: 100%;
+    }
+
+    100%{
+        width: 0%;
+    }
+}
