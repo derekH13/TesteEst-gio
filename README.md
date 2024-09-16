@@ -33,9 +33,9 @@ Para rodar o projeto localmente, siga estas etapas:
 git clone https://github.com/derekH13/TesteEst-gio.git
 Clone o repositório para o seu ambiente local:
 
-# Você pode ver a aplicação no Vercel aqui
+ Você pode ver a aplicação no Vercel aqui
 
-# Getting Started with Create React App
+ Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
